@@ -57,29 +57,18 @@ A colaboração é o que torna este repositório valioso! Se você tem um tutori
 Para manter a organização, o conteúdo está estruturado da seguinte forma:
 
 . 
-├── Hardware/ 
-
-│ ├── Diagnostico_RAM_e_HDD.md 
-
-│ └── Substituicao_Fonte_de_Alimentacao.md 
-
-├── OS_Sistemas_Operacionais/ 
-
-│ ├── Instalacao_Limpa_Windows.md 
-
-│ └── Otimizacao_Linux.md 
-
-├── Redes/ 
-
-│ ├── Troubleshooting_Conexao.md 
-
-│ └── Configurar_IP_Estatico.md 
-
-├── Seguranca/ 
-
-│ └── Remocao_de_Adware.md 
-
-└── README.md
+├── Hardware/ <BR>
+│ ├── Diagnostico_RAM_e_HDD.md <BR>
+│ └── Substituicao_Fonte_de_Alimentacao.md <BR>
+├── OS_Sistemas_Operacionais/ <BR>
+│ ├── Instalacao_Limpa_Windows.md <BR>
+│ └── Otimizacao_Linux.md <BR>
+├── Redes/ <BR>
+│ ├── Troubleshooting_Conexao.md <BR>
+│ └── Configurar_IP_Estatico.md <BR>
+├── Seguranca/ <BR>
+│ └── Remocao_de_Adware.md <BR>
+└── README.md<BR>
 
 ### 🤝 Contato
 
